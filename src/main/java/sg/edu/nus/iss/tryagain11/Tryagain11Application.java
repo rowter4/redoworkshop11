@@ -10,7 +10,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Tryagain11Application {
+public class Tryagain11Application { 
 
 	// Step 1: Have a logger and import the logger package
 	private static final Logger logger = LoggerFactory.getLogger(Tryagain11Application.class);
